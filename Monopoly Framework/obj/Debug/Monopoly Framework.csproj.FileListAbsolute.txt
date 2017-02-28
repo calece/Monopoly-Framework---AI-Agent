@@ -1,0 +1,6 @@
+C:\Users\Cale\Desktop\CS440\Monopoly Framework\Monopoly Framework\bin\Debug\Monopoly Framework.exe.config
+C:\Users\Cale\Desktop\CS440\Monopoly Framework\Monopoly Framework\bin\Debug\Monopoly Framework.exe
+C:\Users\Cale\Desktop\CS440\Monopoly Framework\Monopoly Framework\bin\Debug\Monopoly Framework.pdb
+C:\Users\Cale\Desktop\CS440\Monopoly Framework\Monopoly Framework\obj\Debug\Monopoly Framework.csprojResolveAssemblyReference.cache
+C:\Users\Cale\Desktop\CS440\Monopoly Framework\Monopoly Framework\obj\Debug\Monopoly Framework.exe
+C:\Users\Cale\Desktop\CS440\Monopoly Framework\Monopoly Framework\obj\Debug\Monopoly Framework.pdb
